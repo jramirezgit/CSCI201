@@ -1,6 +1,6 @@
 <!--Heading-->
-# SDEV120
-These are my codes uploaded to the Software Development 120 course during college.
+# CSCI 201
+These are my codes uploaded to the Computer Science 201 course during college.
 
 <!--Information-->
 ## Information
@@ -9,3 +9,19 @@ Let me know if there's something I can fix in my codes up in the issues tab and 
 
 <!--Table on contents (Don't forget the space between the heading and link)-->
 ## Table Of Contents
+### Module One: Classes and Objects
+
+### Module Two: Secure Programming and Exception Handling
+
+### Module Three: Pointers, Tenplates, and Abstractions
+
+### Module Four: Operator Overloading
+
+### Module Five: Inheritance and Introduction to Networking
+
+### Module Six: Polymorphism and Network Communications
+
+### Module Seven: Computer Graphics
+
+### Module Eight: Event Driven Programming & Final Project
+
