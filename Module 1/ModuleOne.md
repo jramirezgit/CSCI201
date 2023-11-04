@@ -1,9 +1,9 @@
 ## Module One
-### M01 Lecture/Lab Activity 1
+### M01 Lecture Lab Activity 1
 This is a short program with a class that has a private integer value, and a public function which will set it if the value passed in is positive. Then in main, it will print the value (notice that this needs to write an accessor function also).
 
 This is the output of this specific code:
-![M01 Lecture/Lab Activity 1 Output]()
+![M01 Lecture Lab Activity 1 Output]()
 
 ### M01 Programming Assignment - Part 1
 This is a program that will create a cube object and display its volume. It includes a class Cube that includes private data members length (int), width (int), height (int), and color (string).
